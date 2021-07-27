@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\alexei_bunazov\Documents\OxygenXMLEditor\samples\dita\flowers\topics\flowers\temp\pdf-css-html5\oxygen_dita_temp?><?workdir-uri file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/temp/pdf-css-html5/oxygen_dita_temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="new_topic" xtrc="topic:1;3:23" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">Main Topic</title>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">
+        <p class="- topic/p " xtrc="p:1;6:12" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">Apply <codeph class="+ topic/ph pr-d/codeph " xtrc="codeph:1;6:26" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">git clone
+                "url"</codeph><codeblock class="+ topic/pre pr-d/codeblock " xml:space="preserve" xtrc="codeblock:1;7:42" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">printf("hello world");</codeblock><simpletable class="- topic/simpletable " frame="all" id="simpletable_hq3_ysy_khb" relcolwidth="1* 1*" xtrc="simpletable:1;8:66" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">
+                <sthead class="- topic/sthead " xtrc="sthead:1;9:25" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:1;10:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">Main</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:2;11:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">TO</stentry>
+                </sthead>
+                <strow class="- topic/strow " xtrc="strow:1;13:24" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:3;14:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">1</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:4;15:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">2</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:2;17:24" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:5;18:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">3</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:6;19:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">3</stentry>
+                </strow>
+                <strow class="- topic/strow " xtrc="strow:3;21:24" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">
+                    <stentry class="- topic/stentry " xtrc="stentry:7;22:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">3</stentry>
+                    <stentry class="- topic/stentry " xtrc="stentry:8;23:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/flowers/new_topic.dita">3</stentry>
+                </strow>
+            </simpletable></p>
+    </body>
+</topic>

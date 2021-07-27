@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\alexei_bunazov\Documents\OxygenXMLEditor\samples\dita\flowers\topics\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="care" xtrc="topic:1;3:18" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Care and Preparation</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">When caring for your flower garden you want to feed your plants properly, control
+        pests and weeds.</shortdesc>
+    <body class="- topic/body " xtrc="body:1;7:11" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+        <p class="- topic/p " xtrc="p:1;8:12" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">When caring for your flower<fn class="- topic/fn " xtrc="fn:1;8:43" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">SOME!</fn> garden you want to<fn class="- topic/fn " xtrc="fn:2;8:76" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">SOME1</fn></p>
+        <p class="- topic/p " xtrc="p:2;9:12" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita"><fn class="- topic/fn " xtrc="fn:3;9:16" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">GOTO</fn> feed <fn class="- topic/fn " xtrc="fn:4;9:35" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">your </fn>plants properly, <fn class="- topic/fn " xtrc="fn:5;9:66" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">control pests and weeds</fn>. Good
+            soil is a must to successful gardening, landscaping, and healthy flowers. You have to
+                    <indexterm class="- topic/indexterm " xtrc="indexterm:1;11:32" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">tasks<indexterm class="- topic/indexterm " xtrc="indexterm:2;11:48" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">preparation</indexterm></indexterm>balance the soil
+            structure with nutrients and regulate the pH to cover your plants'
+            needs.<?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="Let&apos;s add information about fertilizers."?><?oxy_comment_start author="John" timestamp="20120510T121814+0300" comment="We must include information about fertilizers impact to the environment." mid="1"?>
+            And above all, remember that many flower gardens fail because they just don't get enough
+            of your attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
+        <p class="- topic/p " xtrc="p:3;16:12" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+            <table class="- topic/table " frame="none" xtrc="table:1;17:33" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                <title class="- topic/title " xtrc="title:2;18:24" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Flowers</title>
+                <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;19:34" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="171.0pt" xtrc="colspec:1;20:74" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="99.0pt" xtrc="colspec:2;21:73" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="200px" xtrc="colspec:3;22:77" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;23:28" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                        <row class="- topic/row " xtrc="row:1;24:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;25:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Flower</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;26:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Type</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;27:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Soil</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;30:28" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                        <row class="- topic/row " xtrc="row:2;31:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;32:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Chrysanthemum</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;33:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;34:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">well drained</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;36:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;37:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Gardenia</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;38:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;39:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">acidic</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;41:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:10;42:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Gerbera</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;43:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">annual</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;44:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">sandy, well-drained</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;46:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:13;47:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Iris</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:14;48:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5" xtrc="entry:15;49:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">slightly acidic</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;51:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:16;52:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Lilac</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:17;53:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6" xtrc="entry:18;54:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">alkaline</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:7;56:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:19;57:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Salvia</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:20;58:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="7" xtrc="entry:21;59:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">average</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:8;61:30" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:22;62:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">Snowdrop</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:23;63:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">perennial</entry>
+                            <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="8" xtrc="entry:24;64:36" xtrf="file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/care.dita">humus-rich</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+</topic>

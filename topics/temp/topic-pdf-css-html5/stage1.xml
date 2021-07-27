@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\alexei_bunazov\Documents\OxygenXMLEditor\samples\dita\flowers\topics\temp\topic-pdf-css-html5?><?workdir-uri file:/C:/Users/alexei_bunazov/Documents/OxygenXMLEditor/samples/dita/flowers/topics/temp/topic-pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic " ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="introduction" xtrc="topic:1;3:26" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">SB </title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">With just a little bit of care and preparation, any flower garden can be a vibrantly
+        colored environment.</shortdesc>
+    <body class="- topic/body " xtrc="body:1;7:11" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+        <table class="- topic/table " colsep="2" frame="all" id="table_hhm_dqd_rkb" rowsep="1" xtrc="table:1;8:73" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+            <title class="- topic/title " xtrc="title:2;9:20" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">Lorem Ipsum</title>
+            <tgroup class="- topic/tgroup " cols="3" xtrc="tgroup:1;10:30" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;11:65" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;12:65" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;13:65" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita"/>
+                <thead class="- topic/thead " xtrc="thead:1;14:24" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+                    <row class="- topic/row " xtrc="row:1;15:26" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;16:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+                            Vestibulum volutpat
+                        </entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;19:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+                            Curabitur vitae
+                        </entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;22:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+                            Quisque faucibus
+                        </entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrc="tbody:1;27:24" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+                    <row class="- topic/row " xtrc="row:2;28:26" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;29:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">Donec ac sodales</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;30:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">Morbi fermentum</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;31:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">Praesent sagittis</entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:3;33:26" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;34:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">Curabitur pretium</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;35:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">Integer nisi massa</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;36:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">Donec at convallis</entry>
+                    </row>
+                    <row class="- topic/row " xtrc="row:4;38:26" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">
+                        <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:10;39:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">Curabitur eu elit vitae</entry>
+                        <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:11;40:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">Phasellus id nunc aliquam</entry>
+                        <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4" xtrc="entry:12;41:32" xtrf="file:/C:/Users/alexei_bunazov/AppData/Local/Temp/OxygenXMLTemp/ditaTemporaryOutputDir-1581502959635/t1/t2/t3/t4/t5/introduction.dita">Aliquam non varius mauris</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body> 
+</topic>

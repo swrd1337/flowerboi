@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="new_topic">
+    <title>Main Topic</title>
+    <body>
+        <p>Apply <codeph>git clone
+                "url"</codeph><codeblock>printf("hello world");</codeblock><simpletable frame="all"
+                relcolwidth="1* 1*" id="simpletable_hq3_ysy_khb">
+                <sthead>
+                    <stentry>Main</stentry>
+                    <stentry>TO</stentry>
+                </sthead>
+                <strow>
+                    <stentry>1</stentry>
+                    <stentry>2</stentry>
+                </strow>
+                <strow>
+                    <stentry>3</stentry>
+                    <stentry>3</stentry>
+                </strow>
+                <strow>
+                    <stentry>3</stentry>
+                    <stentry>3</stentry>
+                </strow>
+            </simpletable></p>
+    </body>
+</topic>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="introduction">
+    <title>SB </title>
+    <shortdesc>With just a little bit of care and preparation, any flower garden can be a vibrantly
+        colored environment.</shortdesc>
+    <body>
+        <table frame="all"  id="table_hhm_dqd_rkb">
+            <title>Lorem Ipsum</title>
+            <tgroup cols="3">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>
+                            Vestibulum volutpat
+                        </entry>
+                        <entry>
+                            Curabitur vitae
+                        </entry>
+                        <entry>
+                            Quisque faucibus
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Donec ac sodales</entry>
+                        <entry>Morbi fermentum</entry>
+                        <entry>Praesent sagittis</entry>
+                    </row>
+                    <row>
+                        <entry>Curabitur pretium</entry>
+                        <entry>Integer nisi massa</entry>
+                        <entry>Donec at convallis</entry>
+                    </row>
+                    <row>
+                        <entry>Curabitur eu elit vitae</entry>
+                        <entry>Phasellus id nunc aliquam</entry>
+                        <entry>Aliquam non varius mauris</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body> 
+</topic>
